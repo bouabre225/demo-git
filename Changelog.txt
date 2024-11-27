@@ -1,0 +1,2 @@
+- Ajout du nom
+- Creation du fifhier changelog
