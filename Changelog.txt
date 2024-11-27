@@ -1,2 +1,3 @@
 - Ajout du nom
-- Creation du fifhier changelog
+- Création du fichier changelog
+- creation du fichier readme
