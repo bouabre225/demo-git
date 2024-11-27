@@ -1,3 +1,5 @@
 - Ajout du nom
 - Création du fichier changelog
 - creation du fichier readme
+- ajout du nom
+- creation de fichier licence
